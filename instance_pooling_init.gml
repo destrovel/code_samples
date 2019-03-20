@@ -1,0 +1,1 @@
+global.instance_pool = ds_list_create()
